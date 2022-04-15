@@ -1387,7 +1387,11 @@ section {
 .contact .fs-form button[type=submit]:hover {
   background: #1b2dd0;
 }
-
+.contact .fs-form 
+{
+  background: #fafbff;
+  padding: 30px;
+}
 .contact .info-box {
   color: #444444;
   background: #fafbff;
